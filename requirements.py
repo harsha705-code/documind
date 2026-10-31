@@ -1,0 +1,12 @@
+streamlit>=1.35.0
+pymupdf>=1.24.0
+pillow>=10.0.0
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+easyocr>=1.7.0
+pytesseract>=0.3.10
+torch>=2.0.0
+torchvision>=0.15.0
+requests>=2.28.0
+deep-translator>=1.11.0
